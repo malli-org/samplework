@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35707.178 d17.12
+VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "longestsubstring", "longestsubstring\longestsubstring.csproj", "{28A0D59B-B78F-45D6-AFFE-630A664FAF0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sampleopenapi", "sampleopenapi\sampleopenapi.csproj", "{A1B64D45-BA41-4E98-919F-78AA32A13B0A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{28A0D59B-B78F-45D6-AFFE-630A664FAF0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{28A0D59B-B78F-45D6-AFFE-630A664FAF0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{28A0D59B-B78F-45D6-AFFE-630A664FAF0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1B64D45-BA41-4E98-919F-78AA32A13B0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1B64D45-BA41-4E98-919F-78AA32A13B0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1B64D45-BA41-4E98-919F-78AA32A13B0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1B64D45-BA41-4E98-919F-78AA32A13B0A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

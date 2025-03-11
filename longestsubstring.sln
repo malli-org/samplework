@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "longestsubstring", "longest
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sampleopenapi", "sampleopenapi\sampleopenapi.csproj", "{A1B64D45-BA41-4E98-919F-78AA32A13B0A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppForAppInsights", "AppForAppInsights\AppForAppInsights.csproj", "{5CB6EE76-05EE-413C-8088-ED38C204EA0B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{A1B64D45-BA41-4E98-919F-78AA32A13B0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A1B64D45-BA41-4E98-919F-78AA32A13B0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A1B64D45-BA41-4E98-919F-78AA32A13B0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CB6EE76-05EE-413C-8088-ED38C204EA0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CB6EE76-05EE-413C-8088-ED38C204EA0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CB6EE76-05EE-413C-8088-ED38C204EA0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CB6EE76-05EE-413C-8088-ED38C204EA0B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
